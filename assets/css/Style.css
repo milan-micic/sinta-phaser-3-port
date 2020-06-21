@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "NoviFont";
+   src: 
+      url("/assets/fonts/NoviFont.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+    background-color: black;
+    border-style:solid;
+    border-color:red;
+    font-family: "NoviFont";
+}
+
+#gameContainer {
+    width: 640px;
+    height: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px;
+    border-style:solid;
+    border-color:silver;
+}
