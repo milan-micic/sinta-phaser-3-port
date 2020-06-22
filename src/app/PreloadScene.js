@@ -84,9 +84,9 @@ export default class PreloadScene extends Phaser.Scene {
 		this.load.image('kraj', 'assets/img/release.png');
 		this.load.audio('theme', 'assets/audio/toilet.mp3');
 
-		for(var i =0;i<300;i++) {
-			this.load.image('background_'+i, 'assets/img/bg.png');
-		}
+// 		for(var i =0;i<300;i++) {
+// 			this.load.image('background_'+i, 'assets/img/bg.png');
+// 		}
 	}
 
 	updateBar(file) {
