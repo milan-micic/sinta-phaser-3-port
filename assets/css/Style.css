@@ -1,7 +1,7 @@
 @font-face {
    font-family: "NoviFont";
    src: 
-      url("/assets/fonts/NoviFont.ttf") format("truetype");
+      url("assets/fonts/NoviFont.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
